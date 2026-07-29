@@ -210,3 +210,4 @@ show me the pathway
 - Open `http://localhost:8000/` after a default Docker start.
 - `BUILD_EMBEDDINGS=1` enables embedding generation during container startup when the key is present.
 - The app listens on port `5000` inside the container.
+- **The README file inside the repository details my architectural reasoning, core assumptions, and future-proofing considerations for multi-modal sources.**
