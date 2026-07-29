@@ -1,0 +1,577 @@
+{
+  "version": "2026-07-28",
+  "source_root": "RAG Docs",
+  "notes": [
+    "This registry maps the canonical sub-facet names from the brief to the actual files found in the current RAG Docs export.",
+    "Transcript and post assets are currently not present as distinct files in this export, so those arrays are empty unless additional files are provided."
+  ],
+  "subfacets": [
+    {
+      "subfacet_id": "adapting-to-change",
+      "canonical_name": "Adapting to change",
+      "facet": "Mindset",
+      "aliases": [
+        "Adapting to Change"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Adapting to Change Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Adapting to Change/Adapting to Change - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "avoiding-procrastination",
+      "canonical_name": "Avoiding procrastination",
+      "facet": "Mindset",
+      "aliases": [
+        "Procrastination"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Procrastination Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Procrastination/Blocking Time and The Eisenhower Matrix - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Procrastination/The 1-3-5 Method - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Procrastination/The Pomodoro Technique - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "Real files use the shorter label 'Procrastination'."
+      ]
+    },
+    {
+      "subfacet_id": "focus-on-what-you-can-control",
+      "canonical_name": "Focus on what you can control",
+      "facet": "Mindset",
+      "aliases": [
+        "Focus on What You Can Control"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Focus on What You Can Control Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Focus on What You Can Control/Focus on What You Can Control - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "keeping-things-in-perspective",
+      "canonical_name": "Keeping things in perspective",
+      "facet": "Mindset",
+      "aliases": [
+        "Keeping Things in Perspective"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Keeping Things in Perspective Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Keeping Things in Perspective/Keeping Things in Perspective - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "managing-perfectionism",
+      "canonical_name": "Managing perfectionism",
+      "facet": "Mindset",
+      "aliases": [
+        "Perfectionism"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Managing Perfectionism Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Perfectionism/Perfectionism Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "perseverance",
+      "canonical_name": "Perseverance",
+      "facet": "Mindset",
+      "aliases": [],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Perseverance Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Perseverance/Perseverance - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "positivity",
+      "canonical_name": "Positivity",
+      "facet": "Mindset",
+      "aliases": [
+        "Positivity and Optimism"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Positivity and Optimism Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Positivity and Optimism/Reframing Negative Thoughts - Worksheet 1.pdf",
+        "RAG Docs/Worksheets and Exercises/Positivity and Optimism/Reframing Negative Thoughts - Worksheet 2.pdf",
+        "RAG Docs/Worksheets and Exercises/Positivity and Optimism/Reframing Negative Thoughts - Worksheet 3.pdf",
+        "RAG Docs/Worksheets and Exercises/Positivity and Optimism/Reframing Negative Thoughts - Worksheet 4.pdf",
+        "RAG Docs/Worksheets and Exercises/Positivity and Optimism/Reframing Negative Thoughts - Worksheet 5.pdf",
+        "RAG Docs/Worksheets and Exercises/Positivity and Optimism/Reframing Negative Thoughts - Worksheet 5.docx"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "Real files use the broader label 'Positivity and Optimism'."
+      ]
+    },
+    {
+      "subfacet_id": "prioritisation",
+      "canonical_name": "Prioritisation",
+      "facet": "Mindset",
+      "aliases": [],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Prioritisation Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Prioritisation/Blocking Time and The Eisenhower Matrix - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Prioritisation/Common \u2018to-do\u2019 list Apps.pdf",
+        "RAG Docs/Worksheets and Exercises/Prioritisation/The 1-3-5 Method - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Prioritisation/The Pomodoro Technique - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "self-confidence",
+      "canonical_name": "Self-confidence",
+      "facet": "Self-Perception",
+      "aliases": [
+        "Self Confidence"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Self Confidence slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Self-confidence/Self-confidence - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "self-efficacy",
+      "canonical_name": "Self-efficacy",
+      "facet": "Self-Perception",
+      "aliases": [
+        "Self Efficacy"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Self Efficacy Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Self-efficacy/Imposter Syndrome - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Self-efficacy/Self-efficacy - Worksheet 1 & 2.pdf",
+        "RAG Docs/Worksheets and Exercises/Self-efficacy/Self-efficacy - Worksheet 3.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "One worksheet in this folder is labeled 'Imposter Syndrome', so the ingestion pipeline must not trust folder contents blindly."
+      ]
+    },
+    {
+      "subfacet_id": "having-a-clear-life-direction",
+      "canonical_name": "Having a clear life direction",
+      "facet": "Purpose",
+      "aliases": [
+        "Defining a clear Purpose or Direction in your Life",
+        "Purpose"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Defining a clear Purpose or Direction in your Life Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Having a Clear Life Direction/Defining Your Purpose - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Having a Clear Life Direction/Using the Ikigai Model for Self-Reflection - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "identifying-clear-goals",
+      "canonical_name": "Identifying clear goals",
+      "facet": "Purpose",
+      "aliases": [
+        "Clear Goals"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Clear Goals Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Identifying Clear Goals/Identifying Clear Goals - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "leveraging-your-strengths",
+      "canonical_name": "Leveraging your strengths",
+      "facet": "Purpose",
+      "aliases": [
+        "Leveraging your Strengths"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Leveraging your Strengths Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Leveraging Your Strengths/Identifying your Core Strengths Self-Evaluation - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "understanding-your-core-values",
+      "canonical_name": "Understanding your core values",
+      "facet": "Purpose",
+      "aliases": [
+        "Understand your core values"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Understand your core values slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Understanding Your Core Values/Analyse Your Core Values - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Understanding Your Core Values/Values-based Decision Making - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "a-healthy-and-balanced-diet",
+      "canonical_name": "A healthy and balanced diet",
+      "facet": "Health",
+      "aliases": [
+        "Improving Nutrition"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Improving Nutrition Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/A Healthy and Balanced Diet/A Healthy and Balanced Diet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "The slide title differs from the canonical brief name."
+      ]
+    },
+    {
+      "subfacet_id": "quality-sleep",
+      "canonical_name": "Quality sleep",
+      "facet": "Health",
+      "aliases": [
+        "Improving quality and length of Sleep",
+        "Quality of Sleep"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Improving quality and length of Sleep Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Quality of Sleep/Quality of Sleep Assessment_V2.pdf",
+        "RAG Docs/Worksheets and Exercises/Quality of Sleep/Quality of Sleep Worksheet_V2.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "Real files use the label 'Quality of Sleep'."
+      ]
+    },
+    {
+      "subfacet_id": "separating-work-from-home",
+      "canonical_name": "Separating work from home",
+      "facet": "Health",
+      "aliases": [
+        "Separating Work From Home"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Separating Work from Home Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Separating Work From Home/Separating Work From Home - Group Exercise - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Separating Work From Home/Separating Work From Home - Individual Exercise - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "taking-regular-exercise",
+      "canonical_name": "Taking regular exercise",
+      "facet": "Health",
+      "aliases": [
+        "Taking Regular Exercise",
+        "Taking Regular Ecercise"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Taking Regular Exercise Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Taking Regular Ecercise/Taking regular Exercise Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "The worksheet folder misspells 'Exercise' as 'Ecercise'."
+      ]
+    },
+    {
+      "subfacet_id": "time-to-relax-and-recharge",
+      "canonical_name": "Time to relax and recharge",
+      "facet": "Health",
+      "aliases": [
+        "Taking Time to Relax and Recharge"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Taking Time to Relax and Recharge Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Time to Relax and Recharge/Time to Relax and Recharge - Worksheet 1.pdf",
+        "RAG Docs/Worksheets and Exercises/Time to Relax and Recharge/Time to Relax and Recharge - Worksheet 2.pdf",
+        "RAG Docs/Worksheets and Exercises/Time to Relax and Recharge/Time to Relax and Recharge - Worksheet 3.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "work-life-balance",
+      "canonical_name": "Work-life balance",
+      "facet": "Health",
+      "aliases": [
+        "Work Life Balance"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Work Life Balance Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Work-Life Balance/Work-Life Balance Improvement - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Work-Life Balance/Work-Life Balance Leadership Exercise - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "asking-for-help",
+      "canonical_name": "Asking for help",
+      "facet": "Relationships",
+      "aliases": [
+        "Asking for Help"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Asking for Help Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Asking for Help/Asking for Help - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "managing-conflict",
+      "canonical_name": "Managing conflict",
+      "facet": "Relationships",
+      "aliases": [
+        "Managing Conflict"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Managing Conflict Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Managing Conflict/Conflict Resolution Analysis - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Managing Conflict/Conflict Resolution Style - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "managing-emotions",
+      "canonical_name": "Managing emotions",
+      "facet": "Relationships",
+      "aliases": [
+        "Understanding and Managing Emotions"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Managing Emotions Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Understanding and Managing Emotions/Understanding and Managing Emotions - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "The worksheet folder uses a longer label than the canonical brief name."
+      ]
+    },
+    {
+      "subfacet_id": "recognising-stress-triggers",
+      "canonical_name": "Recognising stress triggers",
+      "facet": "Relationships",
+      "aliases": [
+        "Stress Triggers"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Stress Triggers Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Stress Triggers/Identifying and Managing your Stress Triggers - Worksheet.pdf",
+        "RAG Docs/Worksheets and Exercises/Stress Triggers/The Stress Container - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "seeking-feedback",
+      "canonical_name": "Seeking feedback",
+      "facet": "Relationships",
+      "aliases": [
+        "Feedback"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Feedback Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Seeking Feedback/Seeking Feedback Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "The slide title is shorter than the canonical brief name."
+      ]
+    },
+    {
+      "subfacet_id": "self-awareness",
+      "canonical_name": "Self-awareness",
+      "facet": "Relationships",
+      "aliases": [
+        "Self Awarenesss",
+        "Self-awareness"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Self Awarenesss Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Self-awareness/Self-awareness_Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "The slide filename contains a spelling error: 'Awarenesss'."
+      ]
+    },
+    {
+      "subfacet_id": "self-esteem",
+      "canonical_name": "Self-esteem",
+      "facet": "Relationships",
+      "aliases": [
+        "Self Esteem"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Self Esteem Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Self-esteem/Self-esteem - Worksheet 1.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "an-established-support-network",
+      "canonical_name": "An established support network",
+      "facet": "Relationships",
+      "aliases": [
+        "An Established Support Network",
+        "Established Support Network"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/An Established Support Network Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Established Support Network/An Established Support Network - Worksheet (1).pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    },
+    {
+      "subfacet_id": "identifying-a-mentor-or-coach",
+      "canonical_name": "Identifying a mentor or coach",
+      "facet": "Relationships",
+      "aliases": [
+        "Mentor or Coach"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Mentor or Coach slides.pdf"
+      ],
+      "worksheet_assets": [],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "No direct worksheet or exercise file was found for this sub-facet in the current export."
+      ]
+    },
+    {
+      "subfacet_id": "people-you-can-confide-in",
+      "canonical_name": "People you can confide in",
+      "facet": "Relationships",
+      "aliases": [
+        "Identifying People you can Trust and Confide in (Within Established Network)"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Identifying People you can Trust and Confide in (Within Established Network)Slides.pdf"
+      ],
+      "worksheet_assets": [],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": [
+        "No direct worksheet or exercise file was found for this sub-facet in the current export."
+      ]
+    },
+    {
+      "subfacet_id": "imposter-syndrome",
+      "canonical_name": "Imposter syndrome",
+      "facet": "Relationships",
+      "aliases": [
+        "Imposter Syndrome"
+      ],
+      "slide_assets": [
+        "RAG Docs/Presentation materials/PDF Slides for Videos/Imposter Syndrome Slides.pdf"
+      ],
+      "worksheet_assets": [
+        "RAG Docs/Worksheets and Exercises/Imposter Syndrome/Imposter Syndrome - Worksheet.pdf"
+      ],
+      "transcript_assets": [],
+      "post_assets": [],
+      "notes": []
+    }
+  ]
+}

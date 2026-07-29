@@ -1,0 +1,14 @@
+.git
+.gitignore
+.pytest_cache
+.mypy_cache
+__pycache__/
+venv/
+.venv/
+*.pyc
+data/processed/documents.jsonl
+data/processed/chunks.jsonl
+data/processed/embeddings.jsonl
+data/processed/manifest.db
+data/processed/.swift-module-cache/
+.swift-module-cache/
