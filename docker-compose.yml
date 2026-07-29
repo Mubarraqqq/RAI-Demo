@@ -4,11 +4,12 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "5000:5000"
+      - "${HOST_PORT:-8000}:5000"
     environment:
       HOST: 0.0.0.0
       PORT: 5000
       DEBUG: "0"
+      HOST_PORT: ${HOST_PORT:-8000}
       BUILD_EMBEDDINGS: ${BUILD_EMBEDDINGS:-0}
       OPENAI_API_KEY: ${OPENAI_API_KEY:-}
       OPENAI_MODEL: ${OPENAI_MODEL:-chat-latest}
